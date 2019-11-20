@@ -10,7 +10,7 @@ git clone https://github.com/ssrbackup/shadowsocksr
 cp shadowsocksr/config.json /etc/shadowsocks.json
 
 编辑json
-vi /etc/shadowsocks.josn
+vi /etc/shadowsocks.json
 
 你会看到如下信息：
 
